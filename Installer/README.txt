@@ -27,5 +27,5 @@ Sofware requirements (mininmum):
 Windows 7 SP1
 
 
-s
+
 
